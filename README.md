@@ -20,10 +20,8 @@ Produce trend analysis and health summaries.
 Build anomaly detection and forecasting capabilities.
 Generate veterinary reports from structured historical data.
 Data Sources
-Automated Sources
 Petlibro Smart Feeder telemetry
 Petlibro Smart Fountain telemetry
-Manual Sources
 Stool observations
 Weight measurements
 Medication records
