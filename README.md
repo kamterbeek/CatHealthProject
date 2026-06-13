@@ -9,7 +9,6 @@ Monitor hydration trends using smart fountain telemetry.
 Record stool frequency, quality, and irregularities.
 Track weight changes and overall wellness indicators.
 Identify potential health anomalies before they become serious concerns.
-Data Engineering
 Build automated ingestion pipelines from IoT and third-party data sources.
 Create reliable, observable data workflows using modern orchestration tools.
 Implement data quality checks and validation rules.
