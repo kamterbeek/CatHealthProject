@@ -14,7 +14,7 @@ Create reliable, observable data workflows using modern orchestration tools.
 Implement data quality checks and validation rules.
 Design scalable storage and transformation layers.
 Practice analytics engineering and platform operations.
-Analytics
+
 Generate dashboards for daily and long-term health monitoring.
 Produce trend analysis and health summaries.
 Build anomaly detection and forecasting capabilities.
