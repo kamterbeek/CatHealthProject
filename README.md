@@ -72,7 +72,6 @@ Water Consumption Events
 Stool Observations
 Weight Measurements
 Health Notes
-Daily Health Summaries
 Key Metrics
 Feeding
 Meals per day
