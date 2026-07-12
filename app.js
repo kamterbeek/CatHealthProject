@@ -13,5 +13,15 @@ async function loadCats() {
       <p><strong>Age:</strong> ${cat.age}</p>
       <p><strong>Weight:</strong> ${cat.weight} lbs</p>
       <p><strong>Water Today:</strong> ${cat.waterToday} mL </p>
-      
+      <p><strong>Food:</strong> ${cat.food}</p>
+      <p><strong>Status:</strong> ${cat.status}</p>;
+      container.appendChild(card);
+      });
+      }
+      catch(err){
+      container.innerHTML="<p>Unable to load cat data.</p>";
+      console.error(err);
+      }
+      }
+      loadCats();
       
