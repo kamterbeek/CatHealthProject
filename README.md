@@ -1,3 +1,17 @@
+## Demonstrates for CM1040 midterm
+-HTML
+-CSS
+-JSON
+-JavaScript fetch()
+-Dynamic DOM manipulation
+
+Future roadmap:
+- Express REST API
+- PostgreSQl
+- Authentication
+- Analytics Dashboard
+
+
 -A personal data engineering and analytics project designed to collect, transform, monitor, and analyze feline health telemetry. The platform combines automated device data, manual health observations, and analytical workflows to create a longitudinal view of health, behavior, and wellness trends.
 
 The project serves both as a practical health-monitoring system and as a sandbox for developing modern data platform engineering skills, including orchestration, data modeling, observability, analytics engineering, and anomaly detection.
