@@ -1,32 +1,85 @@
+// -----------------------------------------------------
+// Cat Health Dashboard
+// CM1040 Midterm Project
+// Demonstrates:
+// • Fetch API
+// • JSON
+// • DOM Manipulation
+// • Asynchronous JavaScript
+// -----------------------------------------------------
+
+// Wait until the HTML page has fully loaded
+document.addEventListener("DOMContentLoaded", loadCats);
+
+// Load cat data from the JSON file
 async function loadCats() {
-  const container = document.getElementById("catContainer");
 
-  if (!container) return;
+    // Find the container where the cat cards will appear
+    const container = document.getElementById("catContainer");
 
-  try {
-    const response = await fetch("data/cats.json");
-    const cats = await response.json();
+    try {
 
-    cats.forEach(cat => {
-      const card = document.createElement("div");
-      card.className = "card";
+        // Request the JSON data
+        const response = await fetch("data/cats.json");
 
-      card.innerHTML = `
-        <h3>${cat.name}</h3>
-        <p><strong>Age:</strong> ${cat.age}</p>
-        <p><strong>Weight:</strong> ${cat.weight} lbs</p>
-        <p><strong>Water Today:</strong> ${cat.waterToday} mL</p>
-        <p><strong>Food:</strong> ${cat.food}</p>
-        <p><strong>Status:</strong> ${cat.status}</p>
-      `;
+        // Check if the request succeeded
+        if (!response.ok) {
+            throw new Error("Unable to load cat data.");
+        }
 
-      container.appendChild(card);
-    });
+        // Convert JSON into JavaScript objects
+        const cats = await response.json();
 
-  } catch (err) {
-    container.innerHTML = "<p>Unable to load cat data.</p>";
-    console.error(err);
-  }
+        // Remove the loading message
+        container.innerHTML = "";
+
+        // Create one card for every cat
+        cats.forEach(cat => {
+
+            const card = createCatCard(cat);
+
+            container.appendChild(card);
+
+        });
+
+    } catch (error) {
+
+        console.error(error);
+
+        container.innerHTML = `
+            <p class="error">
+                Failed to load cat health data.
+            </p>
+        `;
+
+    }
+
 }
 
-loadCats();
+
+// Creates one dashboard card
+function createCatCard(cat) {
+
+    const card = document.createElement("div");
+
+    card.classList.add("cat-card");
+
+    card.innerHTML = `
+        <h2>${cat.name}</h2>
+
+        <p><strong>Age:</strong> ${cat.age} years</p>
+
+        <p><strong>Weight:</strong> ${cat.weight} kg</p>
+
+        <p><strong>Water Today:</strong> ${cat.waterToday} mL</p>
+
+        <p><strong>Food:</strong> ${cat.food}</p>
+
+        <p><strong>Food Amount:</strong> ${cat.foodAmount} oz</p>
+
+        <p><strong>Status:</strong> ${cat.status}</p>
+    `;
+
+    return card;
+
+}
