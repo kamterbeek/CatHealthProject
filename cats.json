@@ -4,20 +4,19 @@
     "name": "Cassiopeia",
     "age": 2,
     "weight": 4.5,
-    "water today": 232,
-    "food": "tinned",
-    "food amount": 3.4,
-    "Status": "Healthy"
+    "waterToday": 232,
+    "food": "Tinned Food",
+    "foodAmount": 3.4,
+    "status": "Healthy"
   },
-
-{
+  {
     "id": 2,
     "name": "Fry",
     "age": 4,
     "weight": 6.3,
-    "water today": 123,
-    "food": "kibble",
-    "food amount": 3.4,
-    "Status": "Healthy"
-}
+    "waterToday": 123,
+    "food": "Kibble",
+    "foodAmount": 2.8,
+    "status": "Healthy"
+  }
 ]
