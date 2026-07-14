@@ -20,7 +20,6 @@ async function loadCats() {
 
         const response = await fetch("data/cats.json");
 
-        // Check if the request succeeded
         if (!response.ok) {
             throw new Error("Unable to load cat data.");
         }
