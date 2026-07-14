@@ -21,7 +21,7 @@ async function loadCats() {
         const response = await fetch("data/cats.json");
 
         if (!response.ok) {
-            throw new Error("Unable to load cat data.");
+            throw new Error("Unable to load cat data");
         }
 
         // Convert JSON into JavaScript objects
