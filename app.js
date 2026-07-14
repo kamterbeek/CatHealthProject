@@ -8,7 +8,6 @@
 // • Asynchronous JavaScript
 // -----------------------------------------------------
 
-// Wait until the HTML page has fully loaded
 document.addEventListener("DOMContentLoaded", loadCats);
 
 // Load cat data from the JSON file
