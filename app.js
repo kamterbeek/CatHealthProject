@@ -18,7 +18,6 @@ async function loadCats() {
 
     try {
 
-        // Request the JSON data
         const response = await fetch("data/cats.json");
 
         // Check if the request succeeded
