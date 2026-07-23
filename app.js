@@ -77,5 +77,4 @@ function createCatCard(cat) {
     `;
 
     return card;
-
 }
