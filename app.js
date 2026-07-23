@@ -30,7 +30,6 @@ async function loadCats() {
         // Remove the loading message
         container.innerHTML = "";
 
-        // Create one card for every cat
         cats.forEach(cat => {
 
             const card = createCatCard(cat);
