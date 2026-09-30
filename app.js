@@ -51,7 +51,6 @@ async function loadCats() {
 
 }
 
-
 // Creates one dashboard card
 function createCatCard(cat) {
 
