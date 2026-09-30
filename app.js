@@ -1,6 +1,5 @@
 // -----------------------------------------------------
 // Cat Health Dashboard
-// CM1040 Midterm Project
 // Demonstrates:
 // • Fetch API
 // • JSON
