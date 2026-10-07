@@ -1,9 +1,3 @@
-## Demonstrates for CM1040 midterm
--HTML
--CSS
--JSON
--JavaScript fetch()
--Dynamic DOM manipulation
 
 Future roadmap:
 - Express REST API
