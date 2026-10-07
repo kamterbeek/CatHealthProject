@@ -4,7 +4,7 @@ Future roadmap:
 - Authentication
 - Analytics Dashboard
 - Petlibro devices
-- N8N
+- n8n
 
 
 -A personal data engineering and analytics project designed to collect, transform, monitor, and analyze feline health telemetry. The platform combines automated device data, manual health observations, and analytical workflows to create a longitudinal view of health, behavior, and wellness trends.
