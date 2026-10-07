@@ -3,6 +3,7 @@ Future roadmap:
 - PostgreSQl
 - Authentication
 - Analytics Dashboard
+- Petlibro devices
 
 
 -A personal data engineering and analytics project designed to collect, transform, monitor, and analyze feline health telemetry. The platform combines automated device data, manual health observations, and analytical workflows to create a longitudinal view of health, behavior, and wellness trends.
