@@ -111,11 +111,8 @@ Technology Stack
 Languages
 
 Python
-
 SQL
-
 TypeScript
-
 JavaScript
 
 Bash
