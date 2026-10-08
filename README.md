@@ -127,10 +127,8 @@ Frontend & Dashboard
 
 -TypeScript
 -JavaScript
-
-React
-
-Vite
+-React
+-Vite
 
 HTML5
 
