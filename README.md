@@ -105,6 +105,397 @@ Manual data entry will support:
 
 # Architecture
 
+## Tech Stack
+Technology Stack
+
+Languages
+
+Python
+
+SQL
+
+TypeScript
+
+JavaScript
+
+Bash
+
+Backend & API
+
+Python
+
+FastAPI
+
+Pydantic
+
+SQLAlchemy
+
+Alembic
+
+REST API
+
+JWT / OAuth2 Authentication
+
+Frontend & Dashboard
+
+TypeScript
+
+JavaScript
+
+React
+
+Vite
+
+HTML5
+
+CSS3
+
+Apache ECharts
+
+D3.js
+
+Databases & Storage
+
+PostgreSQL
+
+Redis
+
+DuckDB
+
+Amazon S3
+
+MinIO
+
+Apache Parquet
+
+Data Engineering
+
+Apache Kafka
+
+Apache Airflow
+
+Apache Spark
+
+PySpark
+
+Pandas
+
+NumPy
+
+Python
+
+Analytics Engineering
+
+dbt
+
+dbt Core
+
+SQL
+
+DuckDB
+
+PostgreSQL
+
+Data Modeling
+
+Relational data modeling
+
+Dimensional modeling
+
+Star schema
+
+Fact tables
+
+Dimension tables
+
+Slowly Changing Dimensions
+
+Data marts
+
+Data warehouse concepts
+
+Data Quality & Validation
+
+Pandera
+
+dbt tests
+
+Great Expectations
+
+Pydantic
+
+Data validation
+
+Data profiling
+
+Data freshness monitoring
+
+Workflow Orchestration
+
+Apache Airflow
+
+Dagster
+
+n8n
+
+Event Streaming
+
+Apache Kafka
+
+Kafka Producers
+
+Kafka Consumers
+
+Kafka Topics
+
+Kafka Consumer Groups
+
+Event-driven architecture
+
+Real-time data processing
+
+Machine Learning & Analytics
+
+scikit-learn
+
+statsmodels
+
+Pandas
+
+NumPy
+
+Time-series analysis
+
+Anomaly detection
+
+Forecasting
+
+Behavioral baseline modeling
+
+Feature engineering
+
+Visualization & Business Intelligence
+
+React
+
+Apache ECharts
+
+D3.js
+
+Metabase
+
+Grafana
+
+Containerization
+
+Docker
+
+Docker Compose
+
+Docker Hub
+
+Container registries
+
+Kubernetes & Platform Engineering
+
+Kubernetes
+
+Kubernetes Deployments
+
+Kubernetes Services
+
+ConfigMaps
+
+Secrets
+
+Persistent Volumes
+
+Ingress
+
+Kubernetes Jobs
+
+CronJobs
+
+Horizontal Pod Autoscaling
+
+Helm
+
+NGINX Ingress Controller
+
+Cloud & Infrastructure
+
+Amazon Web Services (AWS)
+
+Amazon EKS
+
+Amazon RDS
+
+Amazon S3
+
+Amazon ECR
+
+AWS IAM
+
+AWS VPC
+
+AWS CloudWatch
+
+AWS Secrets Manager
+
+Infrastructure as Code
+
+Terraform
+
+Terraform AWS Provider
+
+Kubernetes Provider
+
+Helm Provider
+
+Observability
+
+Prometheus
+
+Grafana
+
+OpenTelemetry
+
+Structured logging
+
+Metrics
+
+Distributed tracing
+
+Application monitoring
+
+Pipeline monitoring
+
+Data freshness monitoring
+
+Kafka monitoring
+
+Testing
+
+pytest
+
+pytest-asyncio
+
+Integration testing
+
+Unit testing
+
+API testing
+
+Data testing
+
+dbt tests
+
+Pandera validation
+
+Code Quality
+
+Ruff
+
+Black
+
+MyPy
+
+Pre-commit
+
+Type hints
+
+PEP 8
+
+CI/CD
+
+Git
+
+GitHub
+
+GitHub Actions
+
+Docker builds
+
+Automated testing
+
+Container image scanning
+
+Deployment automation
+
+Trivy
+
+Security
+
+JWT
+
+OAuth2
+
+IAM
+
+Kubernetes Secrets
+
+AWS Secrets Manager
+
+Environment variables
+
+API authentication
+
+Role-based access control
+
+Network security
+
+Pet / IoT Integration
+
+Petlibro Smart Feeder
+
+Petlibro Smart Fountain
+
+Petlibro device telemetry
+
+Petlibro APIs where available
+
+HTTP/REST
+
+WebSockets where applicable
+
+MQTT where applicable
+
+Device/network protocol investigation
+
+IoT event ingestion
+
+Development Environment
+
+macOS / Linux
+
+VS Code
+
+Docker Desktop
+
+Python virtual environments
+
+Make
+
+Bash
+
+Git
+
+Documentation
+
+Markdown
+
+OpenAPI / Swagger
+
+dbt documentation
+
+Architecture diagrams
+
+Data dictionaries
+
+Data lineage
+
+Architecture Decision Records (ADRs)
+
 ## Initial Architecture
 
 ```text
