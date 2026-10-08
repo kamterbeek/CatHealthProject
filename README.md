@@ -136,33 +136,20 @@ Frontend & Dashboard
 
 Databases & Storage
 
-PostgreSQL
-
-Redis
-
-DuckDB
-
-Amazon S3
-
-MinIO
-
-Apache Parquet
-
-Data Engineering
-
-Apache Kafka
-
-Apache Airflow
-
-Apache Spark
-
-PySpark
-
-Pandas
-
-NumPy
-
-Python
+-PostgreSQL
+-Redis
+-DuckDB
+-Amazon S3
+-MinIO
+-Apache Parquet
+-Data Engineering
+-Apache Kafka
+-Apache Airflow
+-Apache Spark
+-PySpark
+-Pandas
+-NumPy
+-Python
 
 Analytics Engineering
 
