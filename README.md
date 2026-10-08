@@ -109,12 +109,12 @@ Manual data entry will support:
 
 Languages
 
-Python
-SQL
-TypeScript
-JavaScript
+-Python
+-SQL
+-TypeScript
+-JavaScript
+-Bash
 
-Bash
 Backend & API
 Python
 FastAPI
