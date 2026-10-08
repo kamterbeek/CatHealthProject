@@ -129,14 +129,10 @@ Frontend & Dashboard
 -JavaScript
 -React
 -Vite
-
-HTML5
-
-CSS3
-
-Apache ECharts
-
-D3.js
+-HTML5
+-CSS3
+-Apache ECharts
+-D3.js
 
 Databases & Storage
 
