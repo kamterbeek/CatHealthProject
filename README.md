@@ -159,13 +159,9 @@ SQL
 Data Modeling
 Relational data modeling
 Dimensional modeling
-
 Star schema
-
 Fact tables
-
 Dimension tables
-
 Slowly Changing Dimensions
 
 Data marts
