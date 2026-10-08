@@ -154,19 +154,10 @@ Databases & Storage
 Analytics Engineering
 
 dbt
-
 dbt Core
-
 SQL
-
-DuckDB
-
-PostgreSQL
-
 Data Modeling
-
 Relational data modeling
-
 Dimensional modeling
 
 Star schema
