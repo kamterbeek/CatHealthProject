@@ -121,16 +121,12 @@ Backend & API
 -Pydantic
 -SQLAlchemy
 -Alembic
-
-REST API
-
-JWT / OAuth2 Authentication
+-REST API
 
 Frontend & Dashboard
 
-TypeScript
-
-JavaScript
+-TypeScript
+-JavaScript
 
 React
 
