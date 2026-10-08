@@ -106,7 +106,6 @@ Manual data entry will support:
 # Architecture
 
 ## Tech Stack
-Technology Stack
 
 Languages
 
