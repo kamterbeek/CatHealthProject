@@ -116,13 +116,11 @@ Languages
 -Bash
 
 Backend & API
-Python
-FastAPI
-Pydantic
-
-SQLAlchemy
-
-Alembic
+-Python
+-FastAPI
+-Pydantic
+-SQLAlchemy
+-Alembic
 
 REST API
 
