@@ -119,13 +119,9 @@ TypeScript
 JavaScript
 
 Bash
-
 Backend & API
-
 Python
-
 FastAPI
-
 Pydantic
 
 SQLAlchemy
