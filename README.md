@@ -182,19 +182,13 @@ Data Quality & Validation
 
 Event Streaming
 
-Apache Kafka
-
-Kafka Producers
-
-Kafka Consumers
-
-Kafka Topics
-
-Kafka Consumer Groups
-
-Event-driven architecture
-
-Real-time data processing
+-Apache Kafka
+-Kafka Producers
+-Kafka Consumers
+-Kafka Topics
+-Kafka Consumer Groups
+-Event-driven architecture
+-Real-time data processing
 
 Machine Learning & Analytics
 
