@@ -168,17 +168,12 @@ Analytics Engineering
 
 Data Quality & Validation
 
-Pandera
-
-dbt tests
-
-Great Expectations
-
-Pydantic
-
-Data validation
-
-Data profiling
+-Pandera
+-dbt tests
+-Great Expectations
+-Pydantic
+-Data validation
+-Data profiling
 
 Data freshness monitoring
 
