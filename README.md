@@ -205,28 +205,15 @@ Machine Learning & Analytics
 Visualization & Business Intelligence
 
 -React
-
-Apache ECharts
-
-D3.js
-
-Metabase
-
-Grafana
+-Apache ECharts
+-D3.js
+-Metabase
+-Grafana
 
 Containerization
 
-Docker
-
-Docker Compose
-
-Docker Hub
-
-Container registries
-
-Kubernetes & Platform Engineering
-
-Kubernetes
+-Docker
+-Kubernetes
 
 Kubernetes Deployments
 
