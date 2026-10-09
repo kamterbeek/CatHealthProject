@@ -153,11 +153,11 @@ Databases & Storage
 
 Analytics Engineering
 
-dbt
-dbt Core
-SQL
-Data Modeling
-Relational data modeling
+-dbt
+-dbt Core
+-SQL
+-Data Modeling
+-Relational data modeling
 Dimensional modeling
 Star schema
 Fact tables
