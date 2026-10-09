@@ -293,10 +293,8 @@ pytest
 
 pytest-asyncio
 
-Integration testing
-
-Unit testing
-
+-Integration testing
+-Unit testing
 -API testing
 -Data testing
 -Pandera validation
