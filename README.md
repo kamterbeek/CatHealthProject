@@ -192,21 +192,14 @@ Event Streaming
 
 Machine Learning & Analytics
 
-scikit-learn
-
-statsmodels
-
-Pandas
-
-NumPy
-
-Time-series analysis
-
-Anomaly detection
-
-Forecasting
-
-Behavioral baseline modeling
+-scikit-learn
+-statsmodels
+-Pandas
+-NumPy
+-Time-series analysis
+-Anomaly detection
+-Forecasting
+-Behavioral baseline modeling
 
 Feature engineering
 
