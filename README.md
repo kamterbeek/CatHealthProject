@@ -200,12 +200,11 @@ Machine Learning & Analytics
 -Anomaly detection
 -Forecasting
 -Behavioral baseline modeling
-
-Feature engineering
+-Feature engineering
 
 Visualization & Business Intelligence
 
-React
+-React
 
 Apache ECharts
 
