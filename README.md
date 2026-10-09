@@ -174,16 +174,11 @@ Data Quality & Validation
 -Pydantic
 -Data validation
 -Data profiling
-
-Data freshness monitoring
-
-Workflow Orchestration
-
-Apache Airflow
-
-Dagster
-
-n8n
+-Data freshness monitoring
+-Workflow Orchestration
+-Apache Airflow
+-Dagster
+-n8n
 
 Event Streaming
 
