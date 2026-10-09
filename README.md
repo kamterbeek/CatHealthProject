@@ -235,8 +235,6 @@ Kubernetes Services
 
 ConfigMaps
 
-Secrets
-
 Persistent Volumes
 
 Ingress
