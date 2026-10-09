@@ -297,15 +297,10 @@ Integration testing
 
 Unit testing
 
-API testing
-
-Data testing
-
-dbt tests
-
-Pandera validation
-
-Code Quality
+-API testing
+-Data testing
+-Pandera validation
+-Code Quality
 
 Ruff
 
