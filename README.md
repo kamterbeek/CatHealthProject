@@ -158,15 +158,13 @@ Analytics Engineering
 -SQL
 -Data Modeling
 -Relational data modeling
-Dimensional modeling
-Star schema
-Fact tables
-Dimension tables
-Slowly Changing Dimensions
-
-Data marts
-
-Data warehouse concepts
+-Dimensional modeling
+-Star schema
+-Fact tables
+-Dimension tables
+-Slowly Changing Dimensions
+-Data marts
+-Data warehouse concepts
 
 Data Quality & Validation
 
