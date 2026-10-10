@@ -217,12 +217,9 @@ Containerization
 -Ingress
 -Kubernetes Jobs
 -CronJobs
-
-Horizontal Pod Autoscaling
-
-Helm
-
-NGINX Ingress Controller
+-Horizontal Pod Autoscaling
+-Helm
+-NGINX Ingress Controller
 
 Cloud & Infrastructure
 
