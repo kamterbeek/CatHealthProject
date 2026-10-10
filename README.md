@@ -286,16 +286,13 @@ API authentication
 -Petlibro device telemetry
 -Petlibro APIs where available
 -HTTP/REST
-
-WebSockets where applicable
-
-MQTT where applicable
+-WebSockets
+-MQTT where applicable
 
 Device/network protocol investigation
 
-IoT event ingestion
-
-Development Environment
+-IoT event ingestion
+-Development Environment
 
 macOS / Linux
 
