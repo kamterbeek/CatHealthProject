@@ -214,13 +214,9 @@ Containerization
 
 -Docker
 -Kubernetes
-
-
-Ingress
-
-Kubernetes Jobs
-
-CronJobs
+-Ingress
+-Kubernetes Jobs
+-CronJobs
 
 Horizontal Pod Autoscaling
 
