@@ -248,22 +248,12 @@ Observability
 -Structured logging
 -Metrics
 -Distributed tracing
+-Kafka monitoring
+-pytest
+-pytest-asyncio
 
-Application monitoring
+Integration testing
 
-Pipeline monitoring
-
-Data freshness monitoring
-
-Kafka monitoring
-
-Testing
-
-pytest
-
-pytest-asyncio
-
--Integration testing
 -Unit testing
 -API testing
 -Data testing
