@@ -281,21 +281,11 @@ Deployment automation
 
 API authentication
 
-Role-based access control
-
-Network security
-
-Pet / IoT Integration
-
-Petlibro Smart Feeder
-
-Petlibro Smart Fountain
-
-Petlibro device telemetry
-
-Petlibro APIs where available
-
-HTTP/REST
+-Petlibro Smart Feeder
+-Petlibro Smart Fountain
+-Petlibro device telemetry
+-Petlibro APIs where available
+-HTTP/REST
 
 WebSockets where applicable
 
