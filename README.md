@@ -231,16 +231,13 @@ Cloud & Infrastructure
 -AWS IAM
 -AWS VPC
 -AWS CloudWatch
-
-AWS Secrets Manager
+-AWS Secrets Manager
 
 Infrastructure as Code
 
-Terraform
-
-Terraform AWS Provider
-
-Kubernetes Provider
+-Terraform
+-Terraform AWS Provider
+-Kubernetes Provider
 
 Helm Provider
 
