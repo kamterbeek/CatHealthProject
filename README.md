@@ -225,18 +225,12 @@ Cloud & Infrastructure
 
 -Amazon Web Services (AWS)
 -Amazon EKS
-
-Amazon RDS
-
-Amazon S3
-
-Amazon ECR
-
-AWS IAM
-
-AWS VPC
-
-AWS CloudWatch
+-Amazon RDS
+-Amazon S3
+-Amazon ECR
+-AWS IAM
+-AWS VPC
+-AWS CloudWatch
 
 AWS Secrets Manager
 
