@@ -269,25 +269,15 @@ Integration testing
 -Docker builds
 -Automated testing
 
-Container image scanning
-
 Deployment automation
 
-Trivy
+-Trivy
+-JWT
+-OAuth2
+-IAM
+-Kubernetes Secrets
+-AWS Secrets Manager
 
-Security
-
-JWT
-
-OAuth2
-
-IAM
-
-Kubernetes Secrets
-
-AWS Secrets Manager
-
-Environment variables
 
 API authentication
 
