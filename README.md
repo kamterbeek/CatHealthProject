@@ -275,20 +275,10 @@ pytest-asyncio
 -Data testing
 -Pandera validation
 -Code Quality
-
-Ruff
-
-Black
-
-MyPy
-
-Pre-commit
-
-Type hints
-
-PEP 8
-
-CI/CD
+-Ruff
+-Black
+-MyPy
+-Pre-commit
 
 Git
 
