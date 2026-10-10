@@ -238,16 +238,13 @@ Infrastructure as Code
 -Terraform
 -Terraform AWS Provider
 -Kubernetes Provider
-
-Helm Provider
+-Helm Provider
 
 Observability
 
-Prometheus
-
-Grafana
-
-OpenTelemetry
+-Prometheus
+-Grafana
+-OpenTelemetry
 
 Structured logging
 
