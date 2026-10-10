@@ -245,12 +245,9 @@ Observability
 -Prometheus
 -Grafana
 -OpenTelemetry
-
-Structured logging
-
-Metrics
-
-Distributed tracing
+-Structured logging
+-Metrics
+-Distributed tracing
 
 Application monitoring
 
