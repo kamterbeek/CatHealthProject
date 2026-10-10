@@ -223,9 +223,8 @@ Containerization
 
 Cloud & Infrastructure
 
-Amazon Web Services (AWS)
-
-Amazon EKS
+-Amazon Web Services (AWS)
+-Amazon EKS
 
 Amazon RDS
 
