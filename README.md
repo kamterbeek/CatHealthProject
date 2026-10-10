@@ -292,15 +292,10 @@ API authentication
 Device/network protocol investigation
 
 -IoT event ingestion
--Development Environment
-
-macOS / Linux
-
-VS Code
-
-Docker Desktop
-
-Python virtual environments
+-macOS / Linux
+-VS Code
+-Docker Desktop
+-Python virtual environments
 
 Make
 
