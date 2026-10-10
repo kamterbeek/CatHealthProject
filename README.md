@@ -215,13 +215,6 @@ Containerization
 -Docker
 -Kubernetes
 
-Kubernetes Deployments
-
-Kubernetes Services
-
-ConfigMaps
-
-Persistent Volumes
 
 Ingress
 
