@@ -276,16 +276,11 @@ pytest-asyncio
 -Black
 -MyPy
 -Pre-commit
-
-Git
-
-GitHub
-
-GitHub Actions
-
-Docker builds
-
-Automated testing
+-Git
+-GitHub
+-GitHub Actions
+-Docker builds
+-Automated testing
 
 Container image scanning
 
