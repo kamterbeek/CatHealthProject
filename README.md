@@ -296,12 +296,9 @@ Device/network protocol investigation
 -VS Code
 -Docker Desktop
 -Python virtual environments
-
-Make
-
-Bash
-
-Git
+-Make
+-Bash
+-Git
 
 Documentation
 
