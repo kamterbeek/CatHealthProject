@@ -300,19 +300,6 @@ Device/network protocol investigation
 -Bash
 -Git
 
-Documentation
-
--Markdown
-
-OpenAPI / Swagger
-
--
-Architecture diagrams
-
-Data dictionaries
-
-Data lineage
-
 Architecture Decision Records (ADRs)
 
 ## Initial Architecture
