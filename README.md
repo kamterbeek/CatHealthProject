@@ -299,8 +299,7 @@ Device/network protocol investigation
 -Make
 -Bash
 -Git
-
-Architecture Decision Records (ADRs)
+-Architecture Decision Records (ADRs)
 
 ## Initial Architecture
 
