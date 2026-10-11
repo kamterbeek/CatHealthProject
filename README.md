@@ -302,12 +302,11 @@ Device/network protocol investigation
 
 Documentation
 
-Markdown
+-Markdown
 
 OpenAPI / Swagger
 
-dbt documentation
-
+-
 Architecture diagrams
 
 Data dictionaries
