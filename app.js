@@ -5,7 +5,7 @@
 // • JSON
 // • DOM Manipulation
 // • Asynchronous JavaScript
-// -----------------------------------------------------
+
 
 document.addEventListener("DOMContentLoaded", loadCats);
 
