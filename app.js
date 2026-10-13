@@ -1,4 +1,3 @@
-
 // Cat Health Dashboard
 // Demonstrates:
 // • Fetch API
