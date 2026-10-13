@@ -6,7 +6,6 @@
 // • DOM Manipulation
 // • Asynchronous JavaScript
 
-
 document.addEventListener("DOMContentLoaded", loadCats);
 
 // Load cat data from the JSON file
