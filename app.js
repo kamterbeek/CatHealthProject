@@ -1,5 +1,4 @@
 // Cat Health Dashboard
-// Demonstrates:
 // • Fetch API
 // • JSON
 // • DOM Manipulation
